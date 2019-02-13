@@ -21,7 +21,3 @@ npm run build
 ### 使用截图
 
 ![](./screenshot/1.png)
-下载中
-
-![](./screenshot/2.png)
-完成界面
